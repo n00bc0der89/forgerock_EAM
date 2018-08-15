@@ -1,0 +1,19 @@
+{
+  "instance" : "http://openam.example.com:8080/openam",
+  "dsameUser" : "cn=dsameuser,ou=DSAME Users,dc=openam,dc=forgerock,dc=org",
+  "keystores" : {
+    "default" : {
+      "keyStorePasswordFile" : "/root/openam/org/openam/.storepass",
+      "keyPasswordFile" : "/root/openam/org/openam/.keypass",
+      "keyStoreType" : "JCEKS",
+      "keyStoreFile" : "/root/openam/org/openam/keystore.jceks"
+    }
+  },
+  "configStoreList" : [ {
+    "baseDN" : "dc=openam,dc=forgerock,dc=org",
+    "dirManagerDN" : "cn=Directory Manager",
+    "ldapHost" : "localhost",
+    "ldapPort" : 50389,
+    "ldapProtocol" : "ldap"
+  } ]
+}

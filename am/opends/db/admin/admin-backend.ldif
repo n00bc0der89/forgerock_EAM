@@ -1,0 +1,44 @@
+dn: cn=admin data
+objectClass: ds-cfg-branch
+objectClass: top
+cn: admin data
+entryUUID: 46e489f6-1f92-3120-990f-54a178e95b21
+
+dn: cn=instance keys,cn=admin data
+objectClass: ds-cfg-branch
+objectClass: top
+cn: instance keys
+entryUUID: 66ceef12-f0d6-355e-9e9b-9bdcfe536d8c
+
+dn: cn=secret keys,cn=admin data
+objectClass: ds-cfg-branch
+objectClass: top
+cn: secret keys
+entryUUID: 26176404-8825-3f77-9efd-c52bd4061f3b
+
+dn: cn=Administrators,cn=admin data
+objectClass: top
+objectClass: groupofurls
+memberURL: ldap:///cn=Administrators,cn=admin data??one?(objectclass=*)
+description: Group of identities which have full access.
+cn: Administrators
+entryUUID: 80faa47a-77d6-3c78-a3c1-ea6ccbd2f735
+
+dn: cn=Server Groups,cn=admin data
+objectClass: ds-cfg-branch
+objectClass: top
+cn: Server Groups
+entryUUID: 9ee2aa25-d738-31fc-9fde-145fe9a53ae0
+
+dn: cn=all-servers,cn=Server Groups,cn=admin data
+objectClass: groupOfUniqueNames
+objectClass: top
+cn: all-servers
+entryUUID: 00450d2d-26b0-3d92-b9e8-f616539697fa
+
+dn: ds-cfg-key-id=2A06861D5DC209A98FF4F075F0454CAC,cn=instance keys,cn=admin data
+objectclass: top
+objectclass: ds-cfg-instance-key
+ds-cfg-key-id: 2A06861D5DC209A98FF4F075F0454CAC
+ds-cfg-public-key-certificate;binary:: MIIC7DCCAdSgAwIBAgIEAXyJgzANBgkqhkiG9w0BAQsFADA4MR8wHQYDVQQKExZPcGVuREogUlNBIENlcnRpZmljYXRlMRUwEwYDVQQDEwxiNWZiMDI0NzRlMTMwHhcNMTgwODE0MTMzODM2WhcNMzgwODA5MTMzODM2WjA4MR8wHQYDVQQKExZPcGVuREogUlNBIENlcnRpZmljYXRlMRUwEwYDVQQDEwxiNWZiMDI0NzRlMTMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCCRgm4Cy7aw+pBACAuV2GXXgQ7M5pjqx27hZOcF9LNg6hS6VTc9WMXPlrddHvfYWSG0QmUHh6aQkSDEmYuJYOFzCZ9mCGTxGytovpdxgn41G0/jilC8HhxQDQecKa3vyP4ZZ8iNi+v1xXCT0zI+w6MU2ENuVQmtvxnd1+xrhQCdqrDNLNEEWRe7BqV+3nD2CRAzyBpXzPXVqSff1dYlTWmHpdf0e3VgHopaa1ynDdclB0AQeQP2LCQS7b3vHsY+nobEayFY8f7p4BDWHtx7fZo+BWO81DtDSQ5W4Sx+Cv1nxQ5ClrMOZ5xgJqswm9J3axwpxWhsM4Y9oxyvcAfMHS3AgMBAAEwDQYJKoZIhvcNAQELBQADggEBAAvzLDlR8HiNUX8IYib2hCb0zFCDC4qACbo/6lb9qtuXC23w/mPw7wXLCbGGtHucOHKyaOhsr5hF61ozlktgh2zNTGcTNwxvw4ZeaFL7AAOGKuUa4VYap+h1f0AuXrRAfjXlMRM0jKcR4w9KPxWe5XpACHAeg4yY5EB2pDHPsw70EEFS4CRKSK7A4tWWWJq4l/P+9HZ4SslKmJUYtbeqr1wSnfW/G2FiQ5etBqT5Q7RWj6XQCjPjqBnGjWw2BYCHOS6Dl4Gd7kW3rNHICG0pyJ36wuDC4p9Fcda9NaEKtGgR0IQ3iHYu8cFoXqa4ylUMgD+w2kvHza3LGHmYguSVTOo=
+

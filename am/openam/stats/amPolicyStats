@@ -1,0 +1,121 @@
+******************************************************
+08/14/2018 01:40:58:779 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policies in cache: 0
+08/14/2018 01:40:58:779 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policyManagers in cache:1
+08/14/2018 01:40:58:779 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of service names in  policyListeners cache: 1
+08/14/2018 01:40:58:779 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of services in  resultsCache: 0
+08/14/2018 01:40:58:779 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of token IDs in  sessionListernerRgistry:0
+08/14/2018 01:40:58:780 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of serviceNames  in policyListenerRegistry: 0
+08/14/2018 01:40:58:780 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator:Number of serviceNames in  resourceNames cache: 0
+08/14/2018 01:40:58:780 PM UTC: Thread[SystemTimer,5,main]
+SubjectEvaluationCache: Number of entries in cache : 0
+08/14/2018 01:40:58:868 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of PolicyEvaluators  in  cache : 0
+08/14/2018 01:40:58:868 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of policy change  listeners in  cache : 0
+08/14/2018 01:40:59:001 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policies in cache: 0
+08/14/2018 01:40:59:001 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policyManagers in cache:1
+08/14/2018 01:40:59:001 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of service names in  policyListeners cache: 1
+08/14/2018 01:40:59:001 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of services in  resultsCache: 0
+08/14/2018 01:40:59:001 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of token IDs in  sessionListernerRgistry:0
+08/14/2018 01:40:59:001 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of serviceNames  in policyListenerRegistry: 0
+08/14/2018 01:40:59:001 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator:Number of serviceNames in  resourceNames cache: 0
+08/14/2018 01:40:59:001 PM UTC: Thread[SystemTimer,5,main]
+SubjectEvaluationCache: Number of entries in cache : 0
+08/14/2018 01:40:59:001 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of PolicyEvaluators  in  cache : 0
+08/14/2018 01:40:59:001 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of policy change  listeners in  cache : 0
+08/14/2018 01:41:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policies in cache: 0
+08/14/2018 01:41:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policyManagers in cache:1
+08/14/2018 01:41:59:005 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of service names in  policyListeners cache: 1
+08/14/2018 01:41:59:005 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of services in  resultsCache: 0
+08/14/2018 01:41:59:005 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of token IDs in  sessionListernerRgistry:0
+08/14/2018 01:41:59:006 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of serviceNames  in policyListenerRegistry: 0
+08/14/2018 01:41:59:006 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator:Number of serviceNames in  resourceNames cache: 0
+08/14/2018 01:41:59:006 PM UTC: Thread[SystemTimer,5,main]
+SubjectEvaluationCache: Number of entries in cache : 0
+08/14/2018 01:41:59:007 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of PolicyEvaluators  in  cache : 0
+08/14/2018 01:41:59:007 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of policy change  listeners in  cache : 0
+08/14/2018 01:42:59:003 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policies in cache: 0
+08/14/2018 01:42:59:003 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policyManagers in cache:1
+08/14/2018 01:42:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of service names in  policyListeners cache: 1
+08/14/2018 01:42:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of services in  resultsCache: 0
+08/14/2018 01:42:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of token IDs in  sessionListernerRgistry:0
+08/14/2018 01:42:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of serviceNames  in policyListenerRegistry: 0
+08/14/2018 01:42:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator:Number of serviceNames in  resourceNames cache: 0
+08/14/2018 01:42:59:004 PM UTC: Thread[SystemTimer,5,main]
+SubjectEvaluationCache: Number of entries in cache : 0
+08/14/2018 01:42:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of PolicyEvaluators  in  cache : 0
+08/14/2018 01:42:59:005 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of policy change  listeners in  cache : 0
+08/14/2018 01:43:59:014 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policies in cache: 0
+08/14/2018 01:43:59:014 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policyManagers in cache:1
+08/14/2018 01:43:59:014 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of service names in  policyListeners cache: 1
+08/14/2018 01:43:59:014 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of services in  resultsCache: 0
+08/14/2018 01:43:59:014 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of token IDs in  sessionListernerRgistry:0
+08/14/2018 01:43:59:014 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of serviceNames  in policyListenerRegistry: 0
+08/14/2018 01:43:59:014 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator:Number of serviceNames in  resourceNames cache: 0
+08/14/2018 01:43:59:014 PM UTC: Thread[SystemTimer,5,main]
+SubjectEvaluationCache: Number of entries in cache : 0
+08/14/2018 01:43:59:014 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of PolicyEvaluators  in  cache : 0
+08/14/2018 01:43:59:014 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of policy change  listeners in  cache : 0
+08/14/2018 01:44:59:003 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policies in cache: 0
+08/14/2018 01:44:59:003 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of policyManagers in cache:1
+08/14/2018 01:44:59:003 PM UTC: Thread[SystemTimer,5,main]
+PolicyCache: Number of service names in  policyListeners cache: 1
+08/14/2018 01:44:59:003 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of services in  resultsCache: 0
+08/14/2018 01:44:59:003 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of token IDs in  sessionListernerRgistry:0
+08/14/2018 01:44:59:003 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator: Number of serviceNames  in policyListenerRegistry: 0
+08/14/2018 01:44:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyEvaluator:Number of serviceNames in  resourceNames cache: 0
+08/14/2018 01:44:59:004 PM UTC: Thread[SystemTimer,5,main]
+SubjectEvaluationCache: Number of entries in cache : 0
+08/14/2018 01:44:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of PolicyEvaluators  in  cache : 0
+08/14/2018 01:44:59:004 PM UTC: Thread[SystemTimer,5,main]
+PolicyRequestHandler:Number of policy change  listeners in  cache : 0

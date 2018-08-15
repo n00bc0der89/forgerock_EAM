@@ -1,0 +1,4 @@
+amSecurity:08/14/2018 11:49:35:547 AM UTC: Thread[localhost-startStop-2,5,main]: TransactionId[f40467ea-19e4-4e70-87a8-3b61fc468369-32]
+ERROR: AdminTokenAction: App user name or password is empty
+amSecurity:08/14/2018 11:49:35:549 AM UTC: Thread[localhost-startStop-2,5,main]: TransactionId[f40467ea-19e4-4e70-87a8-3b61fc468369-32]
+ERROR: AdminTokenAction: FATAL ERROR: Cannot obtain Application SSO token.
